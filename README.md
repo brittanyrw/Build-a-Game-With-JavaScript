@@ -1,6 +1,8 @@
 # Let's Build a Game with JavaScript
 ### Build a Game with JavaScript & jQuery - Tech Lady #5 Hackathon Workshop
 
+![screenshot of game](readme-files/homepage.png?raw=true "Screenshot of homepage")
+
 ## Getting Started
 First step: Get access to the starter code! You can follow along using your own text editor or utilize [Codepen.io](https://codepen.io/).
 
