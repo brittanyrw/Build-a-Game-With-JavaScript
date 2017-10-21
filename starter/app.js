@@ -72,6 +72,19 @@ function restartGame() { // restart the game
 
 }
 
-$(document).ready(function() { //actions that we want to occur when the page loads
-
-});
+$(document).ready(function() { //when the page loads...
+  startGame(); //call the startGame function that loads the default scores and the questions into our game.
+   
+  $(".first-choice").click(function() { // this will run when the first button is clicked.
+    
+  });
+  
+  $(".second-choice").click(function() { // this will run when the second button is clicked.
+    
+  });
+  
+  $(".restart").click(function(){ // this will run when the restart button is clicked.
+    
+  })
+    
+})
