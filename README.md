@@ -8,6 +8,7 @@ First step: Get access to the starter code! You can follow along using your own 
 The starter code is avaliable on Codepen.io.
 
 [Access the code on Codepen.io](https://codepen.io/trekkiegirl/pen/ae40b3481431195b44d75f6c49ab2631)
+And via this bit.ly link: ([http://bit.ly/tech-lady-game](http://bit.ly/tech-lady-game))
 
 ### Local Machine
 Clone or download this repository to view the code on your local machine.
