@@ -67,6 +67,11 @@ Need some help chosing colors? The above colors go well together and are utilize
 * green: #5AAD5C;
 * purple: #704996;
 
+### Contact Me
+* [Twitter](https://twitter.com/musicalwebdev?lang=en)
+* [Website](http://www.brittanywalker.io/)
+* [CodePen](https://codepen.io/trekkiegirl)
+
 ### Suggested Challenges & Updates
 Now that you have built the game, let's try some extra features! Below is a list of suggested challenges and features you could add to this game to learn more about JavaScript and jQuery.
 
