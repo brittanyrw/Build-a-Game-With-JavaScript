@@ -1,0 +1,116 @@
+/* STARTER COLORS - mix and match the colors below as a starting point. */
+
+/* blue: #1352A2;
+pink: #F97572;
+black: #333332;
+off-white: #F0F1EE;
+yellow: #FFD464;
+green: #5AAD5C;
+purple: #704996; */
+
+/* GENERAL CSS STYLES */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Change the link below in the background-image property to change the color of the background images (shapes). */
+body {
+	background-color: #704996;
+background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/929057/geometry-purple.svg");
+  background-size: 212px 212px;
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #333332; 
+  margin: 20px;
+}
+
+button {
+  width: 100%;
+  background: white;
+  border: none;
+  border-radius: 2px;
+  margin: 10px auto;
+  cursor: pointer;
+  font-size: 18px;
+  color: #333332;
+  padding: 15px;
+  border: 2px solid #333332; 
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  font-weight: 400;
+  margin: 10px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+}
+
+/* GAME CONTAINER */
+
+.game {
+  background: white;
+  border: 4px solid #333332; 
+  width: 100%;
+  max-width: 500px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+/* GAME STATISTICS */
+
+.money-stat, .happiness-stat, .health-stat, .knowledge-stat {
+  color: white;
+  font-size: 20px;
+  padding: 5px 0;
+  margin: 0;
+}
+
+.stat-container {
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.stats {
+  background: #F97572; 
+  min-height: 80px;
+  border-bottom: 4px solid #333332; 
+  text-align: center;
+}
+
+.stat-image {
+  height: 50px;
+}
+
+/* AVATAR SECTION */
+
+.avatar-container {
+  text-align: center;
+  padding: 15px 15px 0 15px;
+  overflow: hidden;
+}
+
+.avatar {
+  height: 300px;
+  margin-bottom: -6px;
+}
+
+/* ACTIONS SECTION */
+
+.actions {
+  background: #FFD464; 
+  padding: 20px;
+  border-top: 4px solid #333332; 
+  text-align: center;
+}
+
+.restart-container {
+  display: none;
+}
