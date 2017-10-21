@@ -64,6 +64,16 @@ Need some help chosing colors? The above colors go well together and are utilize
 * green: #5AAD5C;
 * purple: #704996;
 
+### Suggested Challenges & Updates
+Now that you have built the game, let's try some extra features! Below is a list of suggested challenges and features you could add to this game to learn more about JavaScript and jQuery.
+
+* Add a starting screen with instructions and a game start button.
+* Allow the user to choose their own avatar before the game starts. (You have four avatar images provided for you!)
+* Add additional user statistics.
+* Add animations such as changing the background color of a button when clicked or slide transitions.
+* Convert the jQuery code to vanilla JavaScript.
+* Animate the avatar SVG image so that the avatar smiles when a statistic increases and frowns when it decreases. 
+
 ### Additional Resources
 
 * [You Don't Know JavaScript book series](https://github.com/getify/You-Dont-Know-JS)
