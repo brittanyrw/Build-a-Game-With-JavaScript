@@ -16,7 +16,7 @@ purple: #704996; */
 
 /* Change the link below in the background-image property to change the color of the background images (shapes). */
 body {
-	background-color: #704996;
+	background-color: #704996; /* change this color to customize the background, try #333332 for a dark look*/
 background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/929057/geometry-purple.svg");
   background-size: 212px 212px;
   font-size: 18px;
