@@ -36,6 +36,8 @@ If you are using Codepen, use the following links to change the avatar from the 
 * Green Avatar: https://s3-us-west-2.amazonaws.com/s.cdpn.io/929057/avatar-green.svg
 * Blue Avatar: https://s3-us-west-2.amazonaws.com/s.cdpn.io/929057/avatar-blue.svg
 
+<img src="readme-files/techlady avatar gifs.gif?raw=true" width="600">
+
 If you are on a local machine: 
 You may use the links above or utilize the avatar images that are located in the images folder. In the HTML file on line 29 change the color in the name of the svg image and you're done!
 
