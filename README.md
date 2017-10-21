@@ -1,6 +1,8 @@
 # Let's Build a Game with JavaScript
 ### Build a Game with JavaScript & jQuery - Tech Lady #5 Hackathon Workshop
 
+![screenshot of game](readme-files/homepage.png?raw=true "Screenshot of homepage")
+
 ## Getting Started
 First step: Get access to the starter code! You can follow along using your own text editor or utilize [Codepen.io](https://codepen.io/).
 
@@ -8,6 +10,7 @@ First step: Get access to the starter code! You can follow along using your own 
 The starter code is avaliable on Codepen.io.
 
 [Access the code on Codepen.io](https://codepen.io/trekkiegirl/pen/ae40b3481431195b44d75f6c49ab2631)
+And via this bit.ly link: ([http://bit.ly/tech-lady-game](http://bit.ly/tech-lady-game))
 
 ### Local Machine
 Clone or download this repository to view the code on your local machine.
@@ -63,6 +66,11 @@ Need some help chosing colors? The above colors go well together and are utilize
 * yellow: #FFD464;
 * green: #5AAD5C;
 * purple: #704996;
+
+### Contact Me
+* [Twitter](https://twitter.com/musicalwebdev?lang=en)
+* [Website](http://www.brittanywalker.io/)
+* [CodePen](https://codepen.io/trekkiegirl)
 
 ### Suggested Challenges & Updates
 Now that you have built the game, let's try some extra features! Below is a list of suggested challenges and features you could add to this game to learn more about JavaScript and jQuery.
