@@ -77,6 +77,7 @@ Need some help chosing colors? The above colors go well together and are utilize
 ### Suggested Challenges & Updates
 Now that you have built the game, let's try some extra features! Below is a list of suggested challenges and features you could add to this game to learn more about JavaScript and jQuery.
 
+* Optimize the code. In the final version of the game there are functions that can be condensed, try it out!
 * Add a starting screen with instructions and a game start button.
 * Allow the user to choose their own avatar before the game starts. (You have four avatar images provided for you!)
 * Add additional user statistics.
