@@ -6,6 +6,8 @@
 ## Getting Started
 First step: Get access to the starter code! You can follow along using your own text editor or utilize [Codepen.io](https://codepen.io/).
 
+View the [final version of the game here.](https://codepen.io/trekkiegirl/pen/e07e128818b87a712e4870bc7a82d08b)
+
 ### Online
 The starter code is avaliable on Codepen.io.
 
